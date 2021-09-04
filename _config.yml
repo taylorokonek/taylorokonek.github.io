@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Taylor Okonek"
-  avatar           : "files/biost_photo.jpg"
+  avatar           : "biost_photo.jpg"
   bio              : "she/her/hers"
   location         : "University of Washington"
   employer         :
