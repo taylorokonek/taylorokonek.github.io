@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm a fourth year Ph.D. student in the [Department of Biostatistics](http://www.biostat.washington.edu/)  at the [University of Washington](https://www.washington.edu/), adivised by [Jon Wakefield](http://faculty.washington.edu/jonno/). My research interests include spatial statistics, small area estimation, and statistical methods for use in official statistics and complex survey data settings. I am particularly interested in applications related to HIV prevalence estimation and disease mapping, and much of my dissertation work is thusly focused.
+Welcome to my personal website! I'm a fourth year Ph.D. student in the [Department of Biostatistics](http://www.biostat.washington.edu/)  at the [University of Washington](https://www.washington.edu/), advised by [Jon Wakefield](http://faculty.washington.edu/jonno/). My research interests include spatial statistics, small area estimation, and statistical methods for use in official statistics and complex survey data settings. I am particularly interested in applications related to HIV prevalence estimation and disease mapping, and much of my dissertation work is thusly focused.
 
 I currently work as a research assistant under the supervision of my dissertation advisor. Our work focuses on spatio-temporal methods for under-5 mortality estimation and HIV prevalence estimation, primarily in sub-Saharan Africa. We are currently developing methodology for benchmarking subnational estimates to national level estimates. This work is particularly important in the realm of official statistics, where a certain level of agreement between national level estimates and subnational estimates is often required. 
 
