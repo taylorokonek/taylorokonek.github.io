@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Papers
-======
-
 Published
 ------
 Eaton, J., ..., Okonek, T.M., ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) <i>Journal of the International AIDS Society</i>, 24. 
