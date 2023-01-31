@@ -13,6 +13,8 @@ author_profile: true
 
 Published
 ------
+Chen, Y.T., ..., Okonek, T.M., ..., Willis, A.D. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) <i>The Journal of Open Source Software</i>, 80, 7.
+
 Eaton, J., ..., Okonek, T.M., ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) <i>Journal of the International AIDS Society</i>, 24. 
 
 Wakefield, J., Okonek, T.M., Pedersen, J. (2020). [Small Area Estimation for Disease Prevalence Mapping.](https://doi.org/10.1111/insr.12400) <i>International Statistical Review</i>, 88, 2. 
