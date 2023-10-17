@@ -5,13 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<hr>
+
+ You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=dGKBXRUAAAAJ&view_op=list_works&authuser=2}}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
-Published
+<u>Published</u>
 ------
 Chen, Y.T., ..., Okonek, T.M., ..., Willis, A.D. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) <i>The Journal of Open Source Software</i>, 80, 7.
 
@@ -23,8 +24,10 @@ Han, S.M., Okonek, T.M., Yadav, N., Zheng, X. (2020). [Distributions of Matching
 
 Epstein, L.K., Okonek, T.M., Perkins, A.E. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) <i>Journal of Music History Pedagogy</i>, 9, 2.
 
-In Progress
+<u>In Progress</u>
 ------
+
+Okonek, T.M., Wilson, K., Wakefield, J. (2023). A Pseudo-likelihood Approach to Under-5 Mortality Estimation
 
 Okonek, T.M., Wakefield, J. (2022). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://arxiv.org/abs/2203.12195) 
 
