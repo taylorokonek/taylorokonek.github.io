@@ -27,7 +27,7 @@ Epstein, L.K., Okonek, T.M., Perkins, A.E. (2019). [Mind the Gap: Inclusive Peda
 <u>In Progress</u>
 ------
 
-Okonek, T.M., Wilson, K., Wakefield, J. (2023). A Pseudo-likelihood Approach to Under-5 Mortality Estimation
+Okonek, T.M., Wilson, K., Wakefield, J. (2023). [A Pseudo-likelihood Approach to Under-5 Mortality Estimation](https://arxiv.org/abs/2310.11357)
 
 Okonek, T.M., Wakefield, J. (2022). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://arxiv.org/abs/2203.12195) 
 
