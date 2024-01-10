@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Taylor Okonek"
+  navbar:
+    background: "#bdb76b"
+    foreground: "#424894"
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: lux
+    fontcolor: "#000000"
+    monobackgroundcolor: "#808000"
+    backgroundcolor: "#cecba4"
+    css: styles.css
+    toc: true
+
+editor: visual
+

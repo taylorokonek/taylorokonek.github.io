@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+## Instructor
+
+**MATH/STAT 455**: Mathematical Statistics. Macalester College, Spring 2024. (1 section)
+
+-   Course notes [here](https://taylorokonek.github.io/MathematicalStatistics/)
+
+**STAT 155**: Introduction to Statistical Modeling. Macalester College, Fall 2023 - Present. (3 sections)
+
+**BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Charlie Wolock](https://cwolock.github.io/teaching).
+
+-   Course materials [here](https://github.com/cwolock/BIOST311)
+
+## Teaching Assistant
+
+**BIOST 555**: Statistical Methods for Spatial Epidemiology. University of Washington, Winter 2022.
+
+**Summer Institute in Statistics and Modeling in Infectious Diseases**: Spatial Statistics in Epidemiology and Public Health. University of Washington, July 2021 and 2022.
+
+**BIOST 310**: Biostatistics for the Health Sciences. University of Washington, Fall 2020. Lead TA.
