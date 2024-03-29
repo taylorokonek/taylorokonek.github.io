@@ -16,7 +16,7 @@ Han, S.M., **Okonek, T.M.**, Yadav, N., Zheng, X. (2020). [Distributions of Matc
 
 Epstein, L.K., **Okonek, T.M.**, Perkins, A.E. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) *Journal of Music History Pedagogy*, 9, 2.
 
-## In Progress
+## Submitted
 
 **Okonek, T.M.**, Wilson, K., Wakefield, J. (2023). [A Pseudo-likelihood Approach to Under-5 Mortality Estimation](https://arxiv.org/abs/2310.11357)
 
