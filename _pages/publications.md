@@ -7,27 +7,24 @@ author_profile: true
 
 <hr>
 
- You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dGKBXRUAAAAJ&view_op=list_works&authuser=2).
-
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dGKBXRUAAAAJ&view_op=list_works&authuser=2).
 
 {% include base_path %}
 
-<u>Published</u>
-------
+## <u>Published</u>
+
 Chen, Y.T., ..., Okonek, T.M., ..., Willis, A.D. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) <i>The Journal of Open Source Software</i>, 80, 7.
 
-Eaton, J., ..., Okonek, T.M., ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) <i>Journal of the International AIDS Society</i>, 24. 
+Eaton, J., ..., Okonek, T.M., ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) <i>Journal of the International AIDS Society</i>, 24.
 
-Wakefield, J., Okonek, T.M., Pedersen, J. (2020). [Small Area Estimation for Disease Prevalence Mapping.](https://doi.org/10.1111/insr.12400) <i>International Statistical Review</i>, 88, 2. 
+Wakefield, J., Okonek, T.M., Pedersen, J. (2020). [Small Area Estimation for Disease Prevalence Mapping.](https://doi.org/10.1111/insr.12400) <i>International Statistical Review</i>, 88, 2.
 
 Han, S.M., Okonek, T.M., Yadav, N., Zheng, X. (2020). [Distributions of Matching Distances in Topological Data Analysis.](https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S01730PDF.pdf?ver=2020-04-14-134630-267) <i>SIAM Undergraduate Research Online</i>, 13.
 
 Epstein, L.K., Okonek, T.M., Perkins, A.E. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) <i>Journal of Music History Pedagogy</i>, 9, 2.
 
-<u>In Progress</u>
-------
+## <u>Submitted</u>
 
 Okonek, T.M., Wilson, K., Wakefield, J. (2023). [A Pseudo-likelihood Approach to Under-5 Mortality Estimation](https://arxiv.org/abs/2310.11357)
 
-Okonek, T.M., Wakefield, J. (2022). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://arxiv.org/abs/2203.12195) 
-
+Okonek, T.M., Wakefield, J. (2022). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://arxiv.org/abs/2203.12195)
