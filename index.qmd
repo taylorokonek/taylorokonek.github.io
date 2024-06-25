@@ -14,7 +14,7 @@ about:
       href: https://github.com/taylorokonek
     - icon: pencil
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=dGKBXRUAAAAJ&hl=en&oi=ao
+      href: https://scholar.google.com/citations?user=SO9X2IwAAAAJ&hl=en
 ---
 
 ::: {#hero-heading}
