@@ -6,6 +6,8 @@ For the most up-to-date list of publications, please see [my Google Scholar prof
 
 ## Published
 
+**Okonek, T.M.**, Wakefield, J. (2024). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://journals.sagepub.com/doi/10.1177/0282423X241244670?icid=int.sj-abstract.similar-articles.3) *The Journal of Official Statistics*, 40, 2.
+
 Chen, Y.T., ..., **Okonek,** **T.M.**, ..., Willis, A.D. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) *The Journal of Open Source Software*, 80, 7.
 
 Eaton, J., ..., **Okonek, T.M.**, ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) *Journal of the International AIDS Society*, 24.
@@ -19,5 +21,3 @@ Epstein, L.K., **Okonek, T.M.**, Perkins, A.E. (2019). [Mind the Gap: Inclusive 
 ## Submitted
 
 **Okonek, T.M.**, Wilson, K., Wakefield, J. (2023). [A Pseudo-likelihood Approach to Under-5 Mortality Estimation](https://arxiv.org/abs/2310.11357)
-
-**Okonek, T.M.**, Wakefield, J. (2022). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://arxiv.org/abs/2203.12195)
