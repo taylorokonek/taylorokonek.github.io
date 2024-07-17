@@ -6,7 +6,7 @@ title: "Teaching"
 
 **MATH/STAT 455**: Mathematical Statistics. Macalester College, Spring 2024. (1 section)
 
--   Course notes [here](https://taylorokonek.github.io/MathematicalStatistics/)
+-   Course notes [here](https://mac-stat.github.io/MathStat355Notes/)
 
 **STAT 155**: Introduction to Statistical Modeling. Macalester College, Fall 2023 - Present. (3 sections)
 
