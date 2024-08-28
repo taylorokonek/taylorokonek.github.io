@@ -4,20 +4,26 @@ title: "Teaching"
 
 ## Instructor
 
-**MATH/STAT 455**: Mathematical Statistics. Macalester College, Spring 2024. (1 section)
+-   **MATH/STAT 455\***: Mathematical Statistics. Macalester College, Spring 2024. (1 section)
 
--   Course notes [here](https://mac-stat.github.io/MathStat355Notes/)
+    -   Course notes [here](https://mac-stat.github.io/MathStat355Notes/)
 
-**STAT 155**: Introduction to Statistical Modeling. Macalester College, Fall 2023 - Present. (3 sections)
+-   **STAT 155**: Introduction to Statistical Modeling. Macalester College, Fall 2023 - Present. (6 sections)
 
-**BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Charlie Wolock](https://cwolock.github.io/teaching).
+    -   Course notes [here](https://mac-stat.github.io/Stat155Notes/)
 
--   Course materials [here](https://github.com/cwolock/BIOST311)
+    -   Current course website (link TBD)
+
+-   **BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Charlie Wolock](https://cwolock.github.io/teaching).
+
+    -   Course materials [here](https://github.com/cwolock/BIOST311)
+
+\*MATH/STAT 455: Mathematical Statistics became MATH/STAT 355: Statistical Theory during the 2024-2025 academic year.
 
 ## Teaching Assistant
 
-**BIOST 555**: Statistical Methods for Spatial Epidemiology. University of Washington, Winter 2022.
+-   **BIOST 555**: Statistical Methods for Spatial Epidemiology. University of Washington, Winter 2022.
 
-**Summer Institute in Statistics and Modeling in Infectious Diseases**: Spatial Statistics in Epidemiology and Public Health. University of Washington, July 2021 and 2022.
+-   **Summer Institute in Statistics and Modeling in Infectious Diseases**: Spatial Statistics in Epidemiology and Public Health. University of Washington, July 2021 and 2022.
 
-**BIOST 310**: Biostatistics for the Health Sciences. University of Washington, Fall 2020. Lead TA.
+-   **BIOST 310**: Biostatistics for the Health Sciences. University of Washington, Fall 2020. Lead TA.
