@@ -4,6 +4,8 @@ title: "Publications"
 
 For the most up-to-date list of publications, please see [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dGKBXRUAAAAJ&view_op=list_works&authuser=2).
 
+<br>
+
 ## Published
 
 **Okonek, T.M.**, Wakefield, J. (2024). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://journals.sagepub.com/doi/10.1177/0282423X241244670?icid=int.sj-abstract.similar-articles.3) *The Journal of Official Statistics*, 40, 2.
@@ -17,6 +19,8 @@ Wakefield, J., **Okonek, T.M.**, Pedersen, J. (2020). [Small Area Estimation for
 Han, S.M., **Okonek, T.M.**, Yadav, N., Zheng, X. (2020). [Distributions of Matching Distances in Topological Data Analysis.](https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S01730PDF.pdf?ver=2020-04-14-134630-267) *SIAM Undergraduate Research Online*, 13.
 
 Epstein, L.K., **Okonek, T.M.**, Perkins, A.E. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) *Journal of Music History Pedagogy*, 9, 2.
+
+<br>
 
 ## Submitted
 
