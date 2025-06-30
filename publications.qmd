@@ -24,4 +24,4 @@ Epstein, L.K., **Okonek, T.M.**, Perkins, A.E. (2019). [Mind the Gap: Inclusive 
 
 ## Submitted
 
-**Okonek, T.M.**, Wilson, K., Wakefield, J. (2023). [A Pseudo-likelihood Approach to Under-5 Mortality Estimation](https://arxiv.org/abs/2310.11357)
+**Okonek, T.M.**, Wilson, K., Wakefield, J. (2023). [A Parametric Survival Model for Child Mortality using Complex Survey Data](https://arxiv.org/abs/2310.11357)
