@@ -23,7 +23,7 @@ about:
 ###
 
 ::: {#hero-heading}
-External Affiliate of the [Center for Studies in Demography and Ecology](https://csde.washington.edu/)
+External Affiliate of the [Center for Studies in Demography and Ecology](https://csde.washington.edu/), External Member of the [Minnesota Population Center](https://pop.umn.edu/).
 
 Download my CV [here](https://drive.google.com/file/d/1Iqolo6czuWVmEeR0nrQROWoBMdOHFsjv/view?usp=sharing).
 :::
