@@ -8,22 +8,24 @@ For the most up-to-date list of publications, please see [my Google Scholar prof
 
 ## Published
 
-**Okonek, T.M.**, Wakefield, J. (2024). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://journals.sagepub.com/doi/10.1177/0282423X241244670?icid=int.sj-abstract.similar-articles.3) *The Journal of Official Statistics*, 40, 2.
+**Okonek T.**, Wilson K., Wakefield J. (2025). [A Parametric Survival Model for Child Mortality using Complex Survey Data](https://www.demographic-research.org/articles/volume/53/26)
+
+**Okonek T.**, Wakefield J. (2024). [A Computationally Efficient Approach to Fully Bayesian Benchmarking.](https://journals.sagepub.com/doi/10.1177/0282423X241244670?icid=int.sj-abstract.similar-articles.3) *The Journal of Official Statistics*, 40, 2.
 
 Angell D., Lane-Getaz S., **Okonek T.**, Smith S. (2024). [Metacognitive Exam Preparation Assignments in an Introductory Biology Course Improve Exam Scores for Lower ACT Students Compared with Assignments that Focus on Terms.](https://www.lifescied.org/doi/10.1187/cbe.22-10-0212) *Life Sciences Education*, 23, 1.
 
-Chen, Y.T., ..., **Okonek,** **T.M.**, ..., Willis, A.D. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) *The Journal of Open Source Software*, 80, 7.
+Chen Y., ..., **Okonek** **T.**, ..., Willis A. (2022). [rigr: Regression, Inference, and General Data Analysis Tools in R.](https://doi.org/10.21105/joss.04847) *The Journal of Open Source Software*, 80, 7.
 
-Eaton, J., ..., **Okonek, T.M.**, ..., Shiraishi, R.W. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) *Journal of the International AIDS Society*, 24.
+Eaton J., ..., **Okonek T.**, ..., Shiraishi R. (2021). [Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa.](https://doi.org/10.1002/jia2.25788) *Journal of the International AIDS Society*, 24.
 
-Wakefield, J., **Okonek, T.M.**, Pedersen, J. (2020). [Small Area Estimation for Disease Prevalence Mapping.](https://doi.org/10.1111/insr.12400) *International Statistical Review*, 88, 2.
+Wakefield J., **Okonek T.**, Pedersen J. (2020). [Small Area Estimation for Disease Prevalence Mapping.](https://doi.org/10.1111/insr.12400) *International Statistical Review*, 88, 2.
 
-Han, S.M., **Okonek, T.M.**, Yadav, N., Zheng, X. (2020). [Distributions of Matching Distances in Topological Data Analysis.](https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S01730PDF.pdf?ver=2020-04-14-134630-267) *SIAM Undergraduate Research Online*, 13.
+Han S.M., **Okonek T.**, Yadav N., Zheng X. (2020). [Distributions of Matching Distances in Topological Data Analysis.](https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S01730PDF.pdf?ver=2020-04-14-134630-267) *SIAM Undergraduate Research Online*, 13.
 
-Epstein, L.K., **Okonek, T.M.**, Perkins, A.E. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) *Journal of Music History Pedagogy*, 9, 2.
+Epstein L., **Okonek T.**, Perkins A. (2019). [Mind the Gap: Inclusive Pedagogies for Diverse Classrooms.](https://www.ams-net.org/ojs/index.php/jmhp/article/view/306/655) *Journal of Music History Pedagogy*, 9, 2.
 
 <br>
 
 ## Submitted
 
-**Okonek, T.M.**, Wilson, K., Wakefield, J. (2023). [A Parametric Survival Model for Child Mortality using Complex Survey Data](https://arxiv.org/abs/2310.11357)
+Schroeder A., Funk R., Guan J., **Okonek T.**, Ziegelmeier L. (2025) [Higher-Order Network Structure Inference: A Topological Approach to Network Selection](https://arxiv.org/pdf/2510.04884).

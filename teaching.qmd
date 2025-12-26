@@ -6,19 +6,20 @@ title: "Teaching"
 
 ## Instructor
 
+-   **MATH/STAT 454**: Bayesian Statistics. Macalester College (2 sections)
+
 -   **MATH/STAT 355\***: Statistical Theory. Macalester College (2 sections)
 
     -   [Course notes](https://mac-stat.github.io/MathStat355Notes/)
     -   Recent [course website](https://taylorokonek.github.io/mathstat355_sp25/)
 
--   **MATH/STAT 354**: Probability. Macalester College (2 sections, Fall 2025)
+-   **MATH/STAT 354**: Probability. Macalester College (3 sections)
 
     -   Current [course website](https://taylorokonek.github.io/mathstat354_fa25/)
 
 -   **STAT 155**: Introduction to Statistical Modeling. Macalester College (7 sections)
 
     -   [Course notes](https://mac-stat.github.io/Stat155Notes/)
-
     -   Recent [course website](https://taylorokonek.github.io/stat155_sp25/)
 
 -   **BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Charlie Wolock](https://cwolock.github.io/teaching).
